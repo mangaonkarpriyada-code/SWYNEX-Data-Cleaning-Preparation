@@ -1,0 +1,22 @@
+SWYNEX DATA CLEANING REPORT
+===================================
+Original rows: 21
+Original columns: 5
+Final rows: 20
+Final columns: 5
+Missing cells initially: 3
+Duplicate rows initially: 1
+Duplicate rows removed: 1
+Missing cells remaining: 0
+Duplicate rows remaining: 0
+
+Invalid values detected by field:
+age: 1
+attendance_percentage: 1
+
+Final data types:
+student_id                 int64
+name                         str
+age                      float64
+marks                    float64
+attendance_percentage    float64
