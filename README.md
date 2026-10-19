@@ -30,19 +30,17 @@ The original dataset is stored in the `data` folder.
 10. Validated the final output.
 
 ## Project Structure
-SWYNEX-Data-Cleaning-Preparation/
-│
-├── data/
-│   └── raw_student_data.csv
-│
-├── screenshots/
-│   ├── python_output.png
-│   └── cleaned_dataset.png
-│
-├── data_cleaning.py
-├── cleaned_student_data.csv
-├── cleaning_report.txt
-└── README.md
+
+    SWYNEX-Data-Cleaning-Preparation/
+    ├── data/
+    │   └── raw_student_data.csv
+    ├── screenshots/
+    │   ├── python_output.png
+    │   └── cleaned_dataset.png
+    ├── data_cleaning.py
+    ├── cleaned_student_data.csv
+    ├── cleaning_report.txt
+    └── README.md
 
 
 ## Screenshots
