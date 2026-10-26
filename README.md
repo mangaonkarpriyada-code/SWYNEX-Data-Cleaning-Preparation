@@ -94,4 +94,7 @@ This project demonstrates fundamental data cleaning and preparation techniques, 
 
 **Priyada Mangaonkar**
 
-##
+## Connect & Project Demo
+
+- **LinkedIn Profile:** [Connect with Priyada Mangaonkar](https://www.linkedin.com/in/priyada-mangaonkar-906b42424/)
+- **Task 1 Demo Video:** [Watch the Project Demonstration on YouTube](https://youtu.be/luHL1iHB6wM)
